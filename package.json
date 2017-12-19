@@ -1,0 +1,25 @@
+{
+  "name": "dumperttelegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeroenKurvink/DumpertTelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeroenKurvink/DumpertTelegramBot/issues"
+  },
+  "homepage": "https://github.com/JeroenKurvink/DumpertTelegramBot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-telegram-bot-api": "^0.29.0",
+    "request-progress": "^3.0.0",
+    "telebot": "^1.2.3"
+  }
+}
